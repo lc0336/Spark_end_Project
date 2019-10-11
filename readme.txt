@@ -1,0 +1,9 @@
+模块介绍
+spark_common：该项目的公共模块
+spark_interface：为其他外部项目提供的接口
+spark_logger：对日志文件进行处理的模块
+    1.将接收到的日志并保存到所在节点的日志文件中
+    2.将接收到的日志写进kafka
+spark_mock：项目中模拟日志的模块
+spark_realtime:实时处理模块
+spark_canal_kafka:将canal中的数据写入kafka

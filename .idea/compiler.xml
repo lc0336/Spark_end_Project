@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dw-chart" />
+        <module name="spark_canal_kafka" />
+        <module name="spark_common" />
+        <module name="spark_interface" />
+        <module name="spark_logger" />
+        <module name="spark_mock" />
+        <module name="spark_realtime" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
