@@ -100,17 +100,7 @@ object EsUtil {
         |}
       """.stripMargin
     selectAllByIndexName("test",essql)
-
-
-
-
-
-
-
-
-
   }
-
 }
 
 case class Student(name:String,age:Int)
